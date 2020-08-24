@@ -26,11 +26,11 @@ console.log("5 is positive: ", isPositive2(5))
 
 // named function without parameters
 function randomNumber() {
-    return Math.random
+    return Math.random()
 }
 console.log("Random number: ", randomNumber())
 let randomNumber2 = () => {
-    return Math.random
+    return Math.random()
 }
 console.log("Random number: ", randomNumber2());
 
