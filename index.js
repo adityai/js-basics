@@ -34,7 +34,3 @@ let randomNumber2 = () => {
 }
 console.log("Random number: ", randomNumber2());
 
-// anonymous function
-// document.addEventListener('click', function () {
-//     console.log('Click');
-// })
